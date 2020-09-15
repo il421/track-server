@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6277ede-23b6-4f5c-8514-b0fba3e7af14" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gMUWedEXkMGxdd5LhoZlQa9U5J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tracks" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\ilya.suglobov\WebstormProjects\track-server\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ilya.suglobov\WebstormProjects\track-server" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6277ede-23b6-4f5c-8514-b0fba3e7af14" name="Default Changelist" comment="" />
+      <created>1597923987473</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597923987473</updated>
+      <workItem from="1597923988502" duration="1224000" />
+      <workItem from="1597925247139" duration="308000" />
+      <workItem from="1598263520917" duration="6209000" />
+      <workItem from="1598299387925" duration="56000" />
+      <workItem from="1598352730844" duration="3498000" />
+      <workItem from="1598386194789" duration="23000" />
+      <workItem from="1598437603466" duration="19000" />
+      <workItem from="1598437665732" duration="1249000" />
+      <workItem from="1598869058577" duration="2486000" />
+      <workItem from="1598906436471" duration="20000" />
+      <workItem from="1599042497736" duration="1240000" />
+      <workItem from="1599127938509" duration="2624000" />
+      <workItem from="1599649462114" duration="1208000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="497" y="108" key="FileChooserDialogImpl" timestamp="1598438757944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="497" y="108" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1598438757944" />
+    <state width="2533" height="285" key="GridCell.Tab.0.bottom" timestamp="1599681983150">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1509" height="239" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599128691372" />
+    <state width="2533" height="285" key="GridCell.Tab.0.bottom/2560.-239.1536.848/0.0.2560.1400@0.0.2560.1400" timestamp="1599681983150" />
+    <state width="2533" height="239" key="GridCell.Tab.0.bottom/2560.-5.1536.848/0.0.2560.1400@0.0.2560.1400" timestamp="1599162711608" />
+    <state width="2533" height="285" key="GridCell.Tab.0.center" timestamp="1599681983150">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1509" height="239" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599128691372" />
+    <state width="2533" height="285" key="GridCell.Tab.0.center/2560.-239.1536.848/0.0.2560.1400@0.0.2560.1400" timestamp="1599681983150" />
+    <state width="2533" height="239" key="GridCell.Tab.0.center/2560.-5.1536.848/0.0.2560.1400@0.0.2560.1400" timestamp="1599162711608" />
+    <state width="2533" height="285" key="GridCell.Tab.0.left" timestamp="1599681983150">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1509" height="239" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599128691372" />
+    <state width="2533" height="285" key="GridCell.Tab.0.left/2560.-239.1536.848/0.0.2560.1400@0.0.2560.1400" timestamp="1599681983150" />
+    <state width="2533" height="239" key="GridCell.Tab.0.left/2560.-5.1536.848/0.0.2560.1400@0.0.2560.1400" timestamp="1599162711608" />
+    <state width="2533" height="285" key="GridCell.Tab.0.right" timestamp="1599681983150">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1509" height="239" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599128691372" />
+    <state width="2533" height="285" key="GridCell.Tab.0.right/2560.-239.1536.848/0.0.2560.1400@0.0.2560.1400" timestamp="1599681983150" />
+    <state width="2533" height="239" key="GridCell.Tab.0.right/2560.-5.1536.848/0.0.2560.1400@0.0.2560.1400" timestamp="1599162711608" />
+    <state x="147" y="0" key="SettingsEditor" timestamp="1597924368802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="147" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1597924368802" />
+    <state x="202" y="208" width="1283" height="566" key="dock-window-1" timestamp="1598354780564">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="202" y="208" width="1283" height="566" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1598354780564" />
+  </component>
+</project>
